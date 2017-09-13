@@ -1,4 +1,4 @@
-# CSE586-GroupMessenger2
+# Part B Tasks: 
 Group Messenger with Total and FIFO Ordering Guarantees and Failure Detection
 
 We were required to implement more advanced concepts in this assignment like adding
