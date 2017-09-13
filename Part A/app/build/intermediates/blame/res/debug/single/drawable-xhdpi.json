@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anushree/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/anushree/AndroidStudioProjects/GroupMessenger1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/anushree/AndroidStudioProjects/GroupMessenger1_shared/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/anushree/AndroidStudioProjects/GroupMessenger1_shared/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

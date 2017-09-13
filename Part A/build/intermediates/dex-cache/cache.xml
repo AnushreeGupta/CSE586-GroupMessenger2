@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/anushree/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7135e4fe320e5cbcde793027f629409d58fb00b2">
+        <dex dex="/home/anushree/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_da619545e0f8f0af33fdce9c79815e8db47bb4b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anushree/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="502d85bf023d41e0777813eb0176c999143ecccf">
+        <dex dex="/home/anushree/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/pre-dexed/debug/instant-run_87c635bf9e23f8899c5e90a7cbb295f27cef531f.jar" />
+    </item>
+
+</items>
